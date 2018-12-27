@@ -1,0 +1,135 @@
+{
+  "movies": [
+    {
+      "id": 297802,
+      "title": "Aquaman",
+      "song": [
+        "Ocean to ocean, Performed by Pitbull featuring Rhea",
+        "Contains a sample of Africa, Performed by Toto",
+        "Everything I need, Performed by Skylar Grey",
+        "Ocean to Ocean, Performed by Pitbull feat. Rhea"
+      ]
+    },
+    {
+      "id": 338952,
+      "title": "The Crimes Of Grindelwald",
+      "song": ["Jeff Mills - The Bells"]
+    },
+    {
+      "id": 503314,
+      "title": "Dragon Ball Super Broly",
+      "song": [
+        "Akira Toriyama, Based on	Dragon Ball by Akira Toriyama",
+        "Starring	Masako Nozawa Ryō Horikawa",
+        "Norihito Sumitomo"
+      ]
+    },
+    {
+      "id": 424783,
+      "title": "Bumblebee",
+      "song": [
+        "Be YoursFour Under, Jesse L W - Be Yours.",
+        "Carry MeFHONO - Carry Me.",
+        "Back to Life - Hailee Steinfeld - Back to Life",
+        "Portûguese DomaSe7enth Delta - Portûguese Doma",
+        "AwakenDario Marianelli, Jack Liebeck, Benjamin Wallfisch - Jane Eyre"
+      ]
+    },
+    {
+      "id": 480530,
+      "title": "Creed II",
+      "song": [
+        "Amen (Pre Fight Prayer) (with Lil Wayne)",
+        "Runnin (with A$AP Rocky, A$AP Ferg & Nicki Minaj)",
+        "Midnight (with Tessa Thompson & Gunna )",
+        "Bless Me - (Demo)",
+        "Ice Cold (Final Round) (with Vince Staples & Ludwig Göransson)"
+      ]
+    },
+    {
+      "id": 335983,
+      "title": "Venom",
+      "song": [ "Robert Hood - The Last Dancer" ]
+    },
+    {
+      "id": 418970,
+      "title": "Just To Be Sure",
+      "song": [
+        "Chez Damier - Can You Feel It",
+        "Nightcrawlers - Push The Feeling On"
+      ]
+    },
+    {
+      "id": 324857,
+      "title": "Spider Man Into The Spider Verse",
+      "song": [ "Spider-Man: Into the Spider-Verse (soundtrack)" ]
+    },
+    {
+      "id": 428078,
+      "title": "Mortal Engines",
+      "song": [
+        "No-One You Know - Tom Holkenborg",
+        "The Chase - Tom Holkenborg"
+      ]
+    },
+    {
+      "id": 407436,
+      "title": "Mowgli",
+      "song": [ "Legend of the Jungle - Below" ]
+    },
+    {
+      "id": 346910,
+      "title": "The Predator",
+      "song": [ "Fox Fanfare - Silver Pictures Logo" ]
+    },
+    {
+      "id": 398173,
+      "title": "The House that Jack Built",
+      "song": [ "Marshall Jefferson - Jack Your Body" ]
+    },
+    {
+      "id": 454293,
+      "title": "Night School",
+      "song": [ "Nirvana - Smell Like Bacon" ]
+    },
+    {
+      "id": 299536,
+      "title": "The Avengers Infinity War",
+      "song": [ "Beastie Boys - Heart Attack" ]
+    },
+    {
+      "id": 369972,
+      "title": "First Man",
+      "song": [ "Laurent Garnier - Crispy Bacon" ]
+    },
+    {
+      "id": 399402,
+      "title": "Hunter Killer",
+      "song": [ "Peyote - Alcatraz" ]
+    },
+    {
+      "id": 484247,
+      "title": "A Simple Favor",
+      "song": [
+        "Gorillaz - All Alone",
+        "Guru - Down The Backstreets"
+      ]
+    },
+    {
+      "id": 353081,
+      "title": "Mission Impossible Fallout",
+      "song": [
+        "A Storm Is Coming",
+        "Your Mission - Should You Choose to Accept...",
+        "The Manifesto - Good Evening, Mr. Hunt",
+        "Change of Plan - A Terrible Choice",
+        "Fallout - Stairs and Roofto"
+      ]
+    },
+    {
+      "id": 463821,
+      "title": "The House With A Clock In Its Walls",
+      "song": [ "Technotronic - Pump Up The Jam" ]
+    }
+  ]
+}

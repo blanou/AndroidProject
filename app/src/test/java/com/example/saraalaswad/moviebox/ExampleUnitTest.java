@@ -1,4 +1,4 @@
-package com.example.final_project.omdb;
+package com.example.saraalaswad.moviebox;
 
 import org.junit.Test;
 
